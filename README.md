@@ -1,4 +1,4 @@
-# App made for a task i had in Mobile Programming
+# App made for a task i had in Mobile Programming class
 
 To run the app you can use it in expo, or try it out in [snack](https://snack.expo.io/@eduardux/trabalho-pdm)
 
